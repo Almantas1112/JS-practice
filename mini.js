@@ -27,14 +27,14 @@
 // let k = 8; // turimos knygos
 // let d = 2; // turimos dezes
 
-// // (antrasis patikrinimas)
+// (antrasis patikrinimas)
 // let n = 5; // knygu talpa tarp vienos dezes
-// let k = 18; // turimos knygos
+// let k = 15; // turimos knygos
 // let d = 3; // turimos dezes
 
 // checker = Math.floor(n * d);
 
-// if (checker > k){
+// if (checker >= k){
 //     console.log("Knygos telpa į dėžes")
 // }
 // else if (checker < k){
