@@ -6,62 +6,20 @@
 
                 // Antra uzduotis
 
-// for (let i = 0; i < 6; i++){
-//     if (i = 1){
-//         console.log("0")
-//     }
-//     if (i = 2){
-//         console.log("1")
-//     }
-//     if (i = 3){
-//         console.log("2")
-//     }
-//     if (i = 4){
-//         console.log("3")
-//     }
-//     if (i = 5){
-//         console.log("4")
-//     }
+// for (let i = 0; i < 5; i++){
+//     console.log(i);
 // }
 
                 // Trecia uzduotis
 
-// for (let i = 0; i < 6; i++){
-//     if (i = 1){
-//         console.log("0")
-//     }
-//     if (i = 2){
-//         console.log("10")
-//     }
-//     if (i = 3){
-//         console.log("20")
-//     }
-//     if (i = 4){
-//         console.log("30")
-//     }
-//     if (i = 5){
-//         console.log("40")
-//     }
+// for (let i = 0; i < 5; i++){
+//     console.log(i * 10);
 // }
 
                 // Ketvirta uzduotis
 
-// for (let i = 0; i < 6; i++){
-//     if (i = 1){
-//         console.log("49")
-//     }
-//     if (i = 2){
-//         console.log("50")
-//     }
-//     if (i = 3){
-//         console.log("51")
-//     }
-//     if (i = 4){
-//         console.log("52")
-//     }
-//     if (i = 5){
-//         console.log("53")
-//     }
+// for (let i = 0; i < 5; i++){
+//     console.log(49 + i)
 // }
 
                 // Penkta uzduotis
