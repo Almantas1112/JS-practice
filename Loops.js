@@ -12,14 +12,14 @@
 
                 // Trecia uzduotis
 
-// for (let i = 0; i < 5; i++){
-//     console.log(i * 10);
+// for (let i = 0; i < 50; i += 10){
+//     console.log(i);
 // }
 
                 // Ketvirta uzduotis
 
-// for (let i = 0; i < 5; i++){
-//     console.log(49 + i)
+// for (let i = 49; i < 54; i++){
+//     console.log(i)
 // }
 
                 // Penkta uzduotis
