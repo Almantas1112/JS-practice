@@ -6,6 +6,7 @@
 
 ### Loops.js file includes loops (for) practice.
 ### mini.js file includes if statement practice.
+### while.js file includes loops (do... while) practice.
 
 ## Author
 
